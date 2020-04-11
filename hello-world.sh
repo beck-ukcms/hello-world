@@ -2,4 +2,5 @@
 
 echo 'Hello, World!'
 
-echo 'This is Mujan edit'
+echo 'This is Seif edit'
+echo 'This is a VSCode edit'
